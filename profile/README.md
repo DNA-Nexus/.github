@@ -2,6 +2,15 @@
   <img src="images/banner.png" alt="DNA-Nexus — Store. Connect. Protect." width="100%">
 </p>
 
+<p align="center">
+  <a href="https://github.com/DNA-Nexus/pq-nas/releases">
+    <img src="https://img.shields.io/github/v/release/DNA-Nexus/pq-nas?label=DNA-Nexus%20Server&style=for-the-badge" alt="DNA-Nexus Server release">
+  </a>
+  <a href="https://github.com/DNA-Nexus/PQ-NAS-Mobile/releases">
+    <img src="https://img.shields.io/github/v/release/DNA-Nexus/PQ-NAS-Mobile?label=DNA-Nexus%20Mobile&style=for-the-badge" alt="DNA-Nexus Mobile release">
+  </a>
+</p>
+
 # DNA-Nexus
 
 **DNA-Nexus** is a private NAS and collaboration platform focused on user-controlled storage, secure sharing, and self-hosted cloud services.
