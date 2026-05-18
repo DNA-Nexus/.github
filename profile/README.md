@@ -38,6 +38,18 @@ DNA-Nexus is built around a simple idea:
 
 Instead of depending completely on large cloud providers, users should be able to run powerful, understandable, and private services on their own NAS or server.
 
+## Preview
+
+### DNA-Nexus Server
+
+![DNA-Nexus front screen](images/frontscreen.png)
+
+![DNA-Nexus inside view](images/inside.png)
+
+### Neonwave Music Library
+
+![Neonwave music library](images/neonwave.png)
+
 ## Status
 
 DNA-Nexus is under active development.
