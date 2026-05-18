@@ -2,6 +2,9 @@
 
 **DNA-Nexus** is a private NAS and collaboration platform focused on user-controlled storage, secure sharing, and self-hosted cloud services.
 
+![DNA-Nexus File Manager](images/filemanager.png)
+
+
 The goal is to give users a friendly alternative to traditional cloud storage: files, photos, videos, workspaces, public upload links, and mobile access — all running on infrastructure the owner controls.
 
 ## Projects
