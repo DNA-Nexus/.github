@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/banner.png" alt="DNA-Nexus — Store. Connect. Protect." width="100%">
+</p>
+
 # DNA-Nexus
 
 **DNA-Nexus** is a private NAS and collaboration platform focused on user-controlled storage, secure sharing, and self-hosted cloud services.
